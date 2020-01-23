@@ -1,2 +1,2 @@
 # election
-ethereum blockchain application application 
+ethereum blockchain application
